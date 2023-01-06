@@ -1,0 +1,41 @@
+
+
+body{
+    background-color: #43e2ac47;
+}
+
+h2{
+    text-align: left;
+}
+
+
+.pform{
+    width: 317px;
+    margin: auto;
+    border: 3px solid black;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    padding: 18px 10px 25px 31px;
+    background-color: #9fcb9f;
+    font-weight: bold;
+
+}
+.button{
+    cursor: pointer;
+    background-color: azure;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 6px;
+}
+.button:hover{
+    background-color: aquamarine;
+    color: blue;
+}
+input{
+    width: 70%;
+}
+/* form {
+    display: block;
+    margin-top: 1em;
+} */
